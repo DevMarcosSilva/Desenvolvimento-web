@@ -1,0 +1,34 @@
+.background-section {
+    background-image: url(imagens/bc\ tech.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  .titulo{
+    color: aliceblue;
+    background-color: rgba(110, 105, 105, 0.5);
+    border-radius: 5px;
+  }
+  
+  
+  @keyframes imagens{
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(70px);
+      }100% {
+      transform: translateY(0px);
+    }
+  }
+  .imagens{
+    color: white;
+    font-size: 17px;
+    width: 70px;
+    position: relative;
+    animation: imagens 10s ease-in-out infinite;
+    right: 50px;
+    height: 50px;
+   
+  }
