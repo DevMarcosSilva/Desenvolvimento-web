@@ -1,0 +1,47 @@
+
+  
+  .titulo {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .accordion-button {
+    background-color: rgb(161, 157, 157);
+    color: #fbf5f5;
+    font-weight: bold;
+  }
+  
+  .accordion-button:hover {
+    background-color: #ccc;
+  }
+  
+  .accordion-body {
+    background-color: #fff;
+    padding: 10px;
+  }
+  
+  .rodape {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .rodape button {
+    margin-right: 10px;
+  }
+  table{
+    padding-left: 33%;
+    padding-right: 33%;
+    margin-top: 40%;
+    margin-left: 40%;
+  }
+  .video{
+    display: flex;
+    justify-content: center;
+  }
+body{
+  background-image: url(imagens/aa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+  

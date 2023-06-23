@@ -1,0 +1,12 @@
+.background-section {
+    background-image: url(imagens/bc\ recebimento.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* Outros estilos desejados para a seção */
+  }
+  .titulo{
+    color: aliceblue;
+    background-color: rgba(110, 105, 105, 0.5);
+    border-radius: 5px;
+  }
